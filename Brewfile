@@ -17,11 +17,15 @@ cask "skype"
 cask "linear-linear"
 cask "cron"
 cask "bitwarden"
-cask "standard-notes"
-cask "tresorit"
 cask "todoist"
 
 # misc
 cask "spotify"
+cask "flux"
+cask "aldente"
+
+# personal
 cask "discord"
 cask "whatsapp"
+cask "standard-notes"
+cask "tresorit"
