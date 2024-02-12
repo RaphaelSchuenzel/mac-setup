@@ -2,7 +2,6 @@
 brew "node"
 brew "git"
 cask "visual-studio-code"
-cask "fig"
 
 # design
 cask "figma"
